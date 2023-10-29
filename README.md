@@ -117,5 +117,6 @@ I specialize in software development and have a strong background in DevOps, and
 ### 📊 Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markwcodes)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=markwcodes&show_icons=true&locale=en&layout=compact)
 
