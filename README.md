@@ -1,13 +1,17 @@
-### Hi there 👋
+<!-- ![MasterHead](assets/images/lazycat_code-01_4x.png) -->
 
-<img src="assets/images/lazycat_code-01_4x.png" alt="Lazy cat code" align="left">
+# 💻🦜 Mark Wilson
 
-## Connect with me:
+I specialize in software development and have a strong background in DevOps, and Cybersecurity. Over 5+ years professional experience in IT, with my career journey taking me from Education to Australian FinTech.
+
+### Connect with me
 
 <a href="https://linkedin.com/in/m2w" target="blank"><img align="center" src="assets/images/linked-in-alt.svg" alt="m2w LinkedIn" height="30" width="40" /></a>
 <a href="https://meetup.com/members/313056740" target="blank"><img align="center" src="assets/images/Meetup_Logo.png" alt="Meetup logo" height="30" width="30" /></a>
 
-## Languages and Tools
+---
+
+### Languages and Tools
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -78,6 +82,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40" />
+  </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" />
   </a>
@@ -89,18 +96,26 @@
   </a>
 </p>
 
-## Cloud Certifications
+### Currently learning...
+
+<img src="assets/images/go-pher.png" title="My Gopher" alt="My Gopher" height="150"/> 
+
+### Go
+
+---
+
+### Recent Certifications
 
 [![AWS DevOps Professional - Sep 2023](https://images.credly.com/size/150x150/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/96b66608-7526-45a1-b67b-2461f53dba8c/)
 [![AWS Developer Associate - Aug 2023](https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/c89f5532-0e59-4b03-982c-0350c84ca7a8/)
 [![AWS Cloud Practitioner - Aug 2023](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/fda02c9f-d7c7-41ba-ac1d-7a86fd94aa78/)
 
-🎯 Next cloud certification goal: [Certified Kubernetes Administrator (CKA)
-](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+#### 🎯 Next cloud certification goal: [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markwcodes&" alt="markwcodes" /></p>
+### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markwcodes&show_icons=true&locale=en&layout=compact" alt="markwcodes" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markwcodes)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=markwcodes&show_icons=true&locale=en&layout=compact)
 
