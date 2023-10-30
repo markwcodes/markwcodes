@@ -16,31 +16,28 @@ I recently moved to Melbourne from Brisbane and quickly became a part of the thr
 
 ### Languages and Tools
 
-<img align="left" title="Kubernetes" alt="Kubernetes" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-<img align="left" title="AWS" alt="AWS" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="left" title="Linux" alt="Linux" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" title="Bash" alt="Bash" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-<img align="left" title="Terraform" alt="Terraform" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" />
-<img align="left" title="Ansible" alt="Ansible" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />
-<img align="left" title="Docker" alt="Docker" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" title="Argo CD" alt="Argo CD" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" />
-<img align="left" title="Flux CD" alt="Flux CD" width="40" height="40" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" />
-<img align="left" title="Nginx" alt="Nginx" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-<img align="left" title="Prometheus" alt="Prometheus" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" />
-<img align="left" title="Grafana" alt="Grafana" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" />
-<img align="left" title="Git" alt="Git" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" title="PHP" alt="PHP" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align="left" title="Laravel" alt="Laravel" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
-<img align="left" title="MySQL" alt="MySQL" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" title="Postgres" alt="Postgres" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" title="Redis" alt="Redis" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
-<img align="left" title="Postman" alt="Postman" width="40" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" title="Python" alt="Python" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" title="Vue" alt="Vue" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="left" title="Tailwind" alt="Tailwind" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
-<br />
-
-#
+<img title="Kubernetes" alt="Kubernetes" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img title="AWS" alt="AWS" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img title="Linux" alt="Linux" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img title="Bash" alt="Bash" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+<img title="Terraform" alt="Terraform" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" />
+<img title="Ansible" alt="Ansible" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />
+<img title="Docker" alt="Docker" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img title="Argo CD" alt="Argo CD" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" />
+<img title="Flux CD" alt="Flux CD" width="40" height="40" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" />
+<img title="Nginx" alt="Nginx" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+<img title="Prometheus" alt="Prometheus" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" />
+<img title="Grafana" alt="Grafana" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" />
+<img title="Git" alt="Git" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img title="PHP" alt="PHP" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img title="Laravel" alt="Laravel" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
+<img title="MySQL" alt="MySQL" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img title="Postgres" alt="Postgres" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img title="Redis" alt="Redis" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
+<img title="Postman" alt="Postman" width="40" height="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img title="Python" alt="Python" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img title="Vue" alt="Vue" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
+<img title="Tailwind" alt="Tailwind" width="40" height="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
 
 ### Currently learning... Go
 
