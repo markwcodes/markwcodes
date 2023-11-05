@@ -2,7 +2,7 @@
 
 # 💻🦜 Mark Wilson
 
-I specialise in software development and have a strong background in DevOps, and Cybersecurity. Over 5+ years professional experience in IT, with my career journey taking me from Education to the FinTech industry.
+I specialise in software development and have a strong background in DevOps, and Cybersecurity. Over 5 years professional experience in IT, with my career journey taking me from Education to the FinTech industry.
 
 I recently moved to Melbourne from Brisbane and quickly became a part of the thriving local tech community. I currently play a co-organiser role at [K8SUG](https://au.linkedin.com/company/k8sug), contributing to the wider adoption of Kubernetes in Australia.
 
@@ -46,7 +46,7 @@ I recently moved to Melbourne from Brisbane and quickly became a part of the thr
 
 ---
 
-### Recent Certifications
+### Certifications
 
 [![AWS DevOps Professional - Sep 2023](https://images.credly.com/size/150x150/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/96b66608-7526-45a1-b67b-2461f53dba8c/)
 [![AWS Developer Associate - Aug 2023](https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/c89f5532-0e59-4b03-982c-0350c84ca7a8/)
