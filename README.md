@@ -1,5 +1,5 @@
 <!-- ![MasterHead](assets/images/lazycat_code-01_4x.png) -->
-![MasterHead](https://github.com/markwcodes/markwcodes/assets/7064464/e69fa75e-d80d-4c0a-b740-0bb28173f2aa)
+![MasterHead](assets/images/github-banner.png)
 
 # 💻🦜 Mark Wilson
 
