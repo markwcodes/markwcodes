@@ -2,9 +2,9 @@
 
 # 💻🦜 Mark Wilson
 
-I specialise in software development and have a strong background in DevOps, and Cybersecurity. Over 5 years professional experience in IT, with my career journey taking me from Education to the FinTech industry.
+I specialise in software development and have a strong background in DevOps, and Cybersecurity. With over five years of professional experience in IT, my career journey has taken me from Education to the FinTech industry.
 
-I recently moved to Melbourne from Brisbane and quickly became a part of the thriving local tech community. I currently play a co-organiser role at [K8SUG](https://au.linkedin.com/company/k8sug), contributing to the wider adoption of Kubernetes in Australia.
+Having recently relocated from Brisbane to Melbourne, I quickly became a part of the thriving local tech community. I currently play a co-organiser role at [K8SUG](https://au.linkedin.com/company/k8sug), contributing to the wider adoption of Kubernetes in Australia.
 
 ### Connect with me
 
