@@ -17,8 +17,8 @@ Having recently relocated from Brisbane to Melbourne, I quickly became a part of
 
 ### Languages and Tools
 <div>
-  <img title="Kubernetes" alt="Kubernetes" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" />&nbsp;
   <img title="AWS" alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />&nbsp;
+  <img title="Kubernetes" alt="Kubernetes" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" />&nbsp;
   <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />&nbsp;
   <img title="Bash" alt="Bash" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />&nbsp;
   <img title="Terraform" alt="Terraform" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" />&nbsp;
