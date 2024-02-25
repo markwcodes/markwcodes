@@ -31,14 +31,14 @@ Having recently relocated from Brisbane to Melbourne, I quickly became a part of
   <img title="Grafana" alt="Grafana" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" />&nbsp;
   <img title="Git" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />&nbsp;
   <img title="PHP" alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />&nbsp;
-  <img title="Laravel" alt="Laravel" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />&nbsp;
+  <img title="Laravel" alt="Laravel" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />&nbsp;
   <img title="MySQL" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
   <img title="Postgres" alt="Postgres" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;
   <img title="Redis" alt="Redis" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />&nbsp;
   <img title="Postman" alt="Postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&nbsp;
   <img title="Python" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;
   <img title="Vue" alt="Vue" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />&nbsp;
-  <img title="Tailwind" alt="Tailwind" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp;
+  <img title="Tailwind" alt="Tailwind" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
 </div>
 
 ### Currently learning... Go
@@ -49,11 +49,12 @@ Having recently relocated from Brisbane to Melbourne, I quickly became a part of
 
 ### Certifications
 
-[![AWS DevOps Professional - Sep 2023](https://images.credly.com/size/150x150/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/96b66608-7526-45a1-b67b-2461f53dba8c/)
-[![AWS Developer Associate - Aug 2023](https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/c89f5532-0e59-4b03-982c-0350c84ca7a8/)
-[![AWS Cloud Practitioner - Aug 2023](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/fda02c9f-d7c7-41ba-ac1d-7a86fd94aa78/)
+<a href="https://www.credly.com/badges/96b66608-7526-45a1-b67b-2461f53dba8c/" target="_blank"><img align="center" src="https://images.credly.com/size/150x150/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS DevOps Professional - Sep 2023" title="AWS DevOps Professional - Sep 2023" width="150" height="150" /></a>&nbsp;
+<a href="https://www.credly.com/badges/c89f5532-0e59-4b03-982c-0350c84ca7a8/" target="_blank"><img align="center" src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate - Aug 2023" title="AWS Developer Associate - Aug 2023" width="150" height="150" /></a>&nbsp;
+<a href="https://www.credly.com/badges/fda02c9f-d7c7-41ba-ac1d-7a86fd94aa78/" target="_blank"><img align="center" src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner - Aug 2023" title="AWS Cloud Practitioner - Aug 2023" width="150" height="150" /></a>&nbsp;
 
-🎯 Next cloud certification goal: [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+
+🎯 Next cloud certification goal: [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 ---
 
