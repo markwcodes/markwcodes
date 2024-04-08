@@ -53,8 +53,10 @@ Having recently relocated from Brisbane to Melbourne, I quickly became a part of
 <a href="https://www.credly.com/badges/c89f5532-0e59-4b03-982c-0350c84ca7a8/" target="_blank"><img align="center" src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate - Aug 2023" title="AWS Developer Associate - Aug 2023" width="150" height="150" /></a>&nbsp;
 <a href="https://www.credly.com/badges/fda02c9f-d7c7-41ba-ac1d-7a86fd94aa78/" target="_blank"><img align="center" src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner - Aug 2023" title="AWS Cloud Practitioner - Aug 2023" width="150" height="150" /></a>&nbsp;
 
+<a href="https://www.credly.com/badges/dab02ec3-0371-4447-9b7f-cf7d742c000a/" target="_blank"><img align="center" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD: Certified Kubernetes Application Developer - Mar 2024" title="CKAD: Certified Kubernetes Application Developer - Mar 2024" width="150" height="150" /></a>&nbsp;
 
-🎯 Next cloud certification goal: [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+
+🎯 Next cloud certification goal: [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
 ---
 
